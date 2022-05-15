@@ -1,2 +1,2 @@
 # MY-CLOCK
-Create a simple "CLOCK" by using Html,Css and Javascript
+Create a simple "CLOCK" by using Html, Css and Javascript
